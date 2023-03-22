@@ -22,14 +22,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Sobre Mim :
     
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭:Estou trabalhando como desenvolvedor back-end em projetos próprios contribuindo com front-end e back-end para criar aplicativos da web.
 
-- 🌱dling: Exploring Technical Content Writing.
+- 🌱: Explorando conteúdos técnicos.
 
-- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡: Estudo e  no meu tempo livre, resolvo problemas do back-end  e leio artigos de tecnologia.
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫:Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
