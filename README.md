@@ -22,12 +22,26 @@
 
 ---
     
-:man_technologist: Sobre Mim :<br>
-   👋
-   Sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-    
-- 👨‍:💼: Disponivél para novos desafios. 
-- 🔭: Estou trabalhando como Desenvolvedor Back-End em projetos próprios e contribuindo com  back-end para a construção de aplicações web.
-- 🌱: Explorando novos Conteúdos Técnicos.
-- ⚡: No meu tempo livre, resolvo problemas relacionados a web  e leio artigos de tecnologia.
-- 📫: Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
+<p>
+  <span style="font-size: 24px;">&#129302;</span> About Me :
+  <br />
+  <span style="font-size: 28px;">👩‍💻</span>
+  I am a Full Stack Developer from India.
+</p>
+<ul>
+  <li>
+    <span style="font-size: 24px;">🔭</span> I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  </li>
+  <li>
+    <span style="font-size: 24px;">🌱</span> Exploring Technical Content Writing.
+  </li>
+  <li>
+    <span style="font-size: 24px;">⚡</span> In my free time I solve problems on GeeksforGeeks and read tech articles.
+  </li>
+  <li>
+    <span style="font-size: 24px;">📫</span> How to reach me:
+    <a href="https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/">
+      <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+  </li>
+</ul>
