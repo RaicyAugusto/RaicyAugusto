@@ -22,7 +22,7 @@
 
 ---
 
-### :man_technologist: Sobre Mim :
+ :man_technologist: Sobre Mim :
     
 Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
