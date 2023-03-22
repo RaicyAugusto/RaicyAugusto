@@ -21,8 +21,8 @@
    👋
    Sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
     
-- 👨‍💼 Disponivél para novos desafios. 
-- 🔭 Estou trabalhando como Desenvolvedor Back-End em projetos próprios e contribuindo com  back-end para a construção de aplicações web.
-- 🌱 Explorando novos Conteúdos Técnicos.
-- ⚡No meu tempo livre, resolvo problemas relacionados a web  e leio artigos de tecnologia.
-- 📫 Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
+- 👨‍:💼: Disponivél para novos desafios. 
+- 🔭: Estou trabalhando como Desenvolvedor Back-End em projetos próprios e contribuindo com  back-end para a construção de aplicações web.
+- 🌱: Explorando novos Conteúdos Técnicos.
+- ⚡: No meu tempo livre, resolvo problemas relacionados a web  e leio artigos de tecnologia.
+- 📫: Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
