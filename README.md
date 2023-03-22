@@ -32,4 +32,4 @@ Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WU
 
 - ⚡: Estudo e  no meu tempo livre, resolvo problemas do back-end  e leio artigos de tecnologia.
 
-- 📫:Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
+- 📫:Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
