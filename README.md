@@ -21,27 +21,15 @@
 </div>
 
 ---
+
+### :man_technologist: About Me :
     
-<p>
-  <span style="font-size: 24px;">&#129302;</span> About Me :
-  <br />
-  <span style="font-size: 28px;">👩‍💻</span>
-  I am a Full Stack Developer from India.
-</p>
-<ul>
-  <li>
-    <span style="font-size: 24px;">🔭</span> I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  </li>
-  <li>
-    <span style="font-size: 24px;">🌱</span> Exploring Technical Content Writing.
-  </li>
-  <li>
-    <span style="font-size: 24px;">⚡</span> In my free time I solve problems on GeeksforGeeks and read tech articles.
-  </li>
-  <li>
-    <span style="font-size: 24px;">📫</span> How to reach me:
-    <a href="https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/">
-      <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-  </li>
-</ul>
+    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 🌱dling: Exploring Technical Content Writing.
+
+- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
