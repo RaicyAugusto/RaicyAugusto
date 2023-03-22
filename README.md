@@ -22,16 +22,33 @@
 
 ---
 
-:man_technologist: Sobre Mim :
-:wave GIF wave()   
+### :man_technologist: &nbsp;Sobre Mim :
+
     
-Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭:Estou trabalhando como desenvolvedor back-end em projetos próprios contribuindo com front-end e back-end para criar aplicativos da web.
+- 💼 A procura de novos desafios. 💼
+- 🔭 Estou trabalhando como desenvolvedor back-end em projetos próprios contribuindo para criar aplicativos da web. 🔭
+- 🌱 Explorando conteúdos técnicos. 🌱
+- 💻 Estudo e no meu tempo livre, resolvo problemas do back-end  e leio artigos de tecnologia. 💻
+- 📫 Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/) 📫
 
- 🌱: Explorando conteúdos técnicos.
+---
 
-- ⚡: Estudo e  no meu tempo livre, resolvo problemas do back-end  e leio artigos de tecnologia.
-
-- 📫:Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/)
-
+### ⚒ &nbsp;Linguagens e Ferramentas:
+<div = "L&F">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET-Core" width="40" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg"  title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
+<div>  
