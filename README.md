@@ -23,13 +23,13 @@
 ---
 
 :man_technologist: Sobre Mim :
-:wave GIF wave()    
+:wave GIF wave()   
     
 Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - 🔭:Estou trabalhando como desenvolvedor back-end em projetos próprios contribuindo com front-end e back-end para criar aplicativos da web.
 
-- 🌱: Explorando conteúdos técnicos.
+ 🌱: Explorando conteúdos técnicos.
 
 - ⚡: Estudo e  no meu tempo livre, resolvo problemas do back-end  e leio artigos de tecnologia.
 
