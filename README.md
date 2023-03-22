@@ -10,5 +10,8 @@
     <a href="https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <div id ="badges">
+      <img src="https://komarev.com/ghpvc/?username=Raicy-Augusto&style=flat-square&color=blue" alt=""/>
+    <div>
   </div>
 </div>
