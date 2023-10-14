@@ -21,10 +21,8 @@
 </div>
 
 ---
-
-### :man_technologist: &nbsp;Sobre Mim :
-
-    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaicyAugusto&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### :man_technologist: &nbsp;Sobre Mim :    
 Eu sou estudante de Ciencia de Dados  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 💼 A procura de novos desafios. 💼
@@ -49,8 +47,8 @@ Eu sou estudante de Ciencia de Dados  <img src="https://media.giphy.com/media/WU
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg"  title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
 <div>  
-
+  
 ---
