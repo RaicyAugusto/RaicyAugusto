@@ -25,12 +25,12 @@
 ### :man_technologist: &nbsp;Sobre Mim :
 
     
-Eu sou Desenvolvedor Back-End .Net Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Eu sou estudante de Ciencia de Dados  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 💼 A procura de novos desafios. 💼
-- 🔭 Estou trabalhando como desenvolvedor back-end em projetos próprios contribuindo para criar aplicativos da web. 🔭
+- 🔭 Estou trabalhando com ciencia de dados em projetos próprios contribuindo para criar ML com boas praticas. 🔭
 - 🌱 Explorando conteúdos técnicos. 🌱
-- 💻 Estudo e no meu tempo livre, resolvo problemas do back-end  e leio artigos de tecnologia. 💻
+- 💻 Estudo e no meu tempo livre, resolvo problemas de date science  e leio artigos de tecnologia. 💻
 - 📫 Contate-me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raicy-augusto-rodrigues-pinto-a89201263/) 📫
 
 ---
